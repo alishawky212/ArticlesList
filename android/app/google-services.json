@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "490477703816",
+    "firebase_url": "https://arqaamtask.firebaseio.com",
+    "project_id": "arqaamtask",
+    "storage_bucket": "arqaamtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490477703816:android:e268849ce89d0c52",
+        "android_client_info": {
+          "package_name": "com.example.arqaamtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490477703816-flj4k9gid6u4kdsou0cpkeoclq7iahme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTXY5RN2qQNWAn03r9VyeIbqJNK7KbCrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4790983019049317~8309718175"
+    }
+  ],
+  "configuration_version": "1"
+}
