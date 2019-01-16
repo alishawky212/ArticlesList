@@ -7,9 +7,9 @@ import 'dart:io';
 import 'package:firebase_messaging/firebase_messaging.dart';
 
 
-const String AD_MOB_APP_ID = 'ca-app-pub-4790983019049317~8309718175';
+const String AD_MOB_APP_ID = '';
 const String AD_MOB_TEST_DEVICE = 'test_device_id - run ad then check device logs for value';
-const String AD_MOB_AD_ID = 'ca-app-pub-4790983019049317/9155895981';
+const String AD_MOB_AD_ID = '';
 
 class ArticalesList extends StatefulWidget{
   @override
